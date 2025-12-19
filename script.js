@@ -833,7 +833,7 @@ function initBoliviaMap() {
     }
 
     const map = L.map('bolivia-map', {
-        center: [16.5, 65],
+        center: [-16.5, -65],
         zoom: 6,
         zoomControl: true,
         scrollWheelZoom: true
